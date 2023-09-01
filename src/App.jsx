@@ -81,9 +81,9 @@ function App() {
           </div>
           <div className='socials'>
             <ul>
-              <li><a> <img src='instagram.svg' alt='insta' loading='lazy' /></a> Instagram</li>
-              <li><a> <img src='twitter.svg' alt='x' loading='lazy' /></a> Twitter</li>
-              <li><a> <img src='linkedin.svg' alt='linkedin' loading='lazy' /></a> Linkedin</li>
+              <li><a href='https://instagram.com/_mindconnect?igshid=OGQ5ZDc2ODk2ZA=='> <img src='instagram.svg' alt='insta' loading='lazy' /></a> Instagram</li>
+              <li><a href='https://x.com/_mindconnect?s=11'> <img src='twitter.svg' alt='x' loading='lazy' /></a> Twitter</li>
+              <li><a href='https://www.linkedin.com/in/mind-connect-06239728b'> <img src='linkedin.svg' alt='linkedin' loading='lazy' /></a> Linkedin</li>
             </ul>
           </div>
           
